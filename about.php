@@ -165,7 +165,7 @@
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-leader-image"><img src="assets/images/eminent/leader-ezekiel.jpg" alt="EKMS academic leadership" loading="lazy"></div>
+                        <div class="ekms-leader-image"><img src="assets/images/eminent/ezekiel-salako.jpg" alt="EKMS academic leadership" loading="lazy"></div>
                         <h4 class="title">Mr Ezekiel Kolawole Salako</h4>
                         <p class="desc">Director, Eminent Kids Montessori School</p>
                     </div>

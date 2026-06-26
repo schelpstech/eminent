@@ -203,7 +203,7 @@
         <div class="container">
             <div class="section-title-area text-center">
                 <p class="pre-title justify-content-center"><img src="assets/images/banner/title-img.svg" alt="">Why Study at EKMS</p>
-                <h2 class="section-title">A Complete Learning Experience for Every Child</h2>
+                <h6 class="section-title">A Complete Learning Experience for Every Child</h6>
                 <p class="desc ekms-section-note">The EKMS experience blends Montessori methods, a serene environment, competent faculty, modern curriculum and ICT skills development.</p>
             </div>
             <div class="row g-5 mt--10">
