@@ -163,25 +163,18 @@
                 <p class="desc ekms-section-note">A dedicated team committed to the continuous development of learners and staff.</p>
             </div>
             <div class="row g-5">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-6 col-md-6">
                     <div class="ekms-feature-card">
                         <div class="ekms-leader-image"><img src="assets/images/eminent/ezekiel-salako.jpg" alt="EKMS academic leadership" loading="lazy"></div>
                         <h4 class="title">Mr Ezekiel Kolawole Salako</h4>
                         <p class="desc">Director, Eminent Kids Montessori School</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-6 col-md-6">
                     <div class="ekms-feature-card">
                         <div class="ekms-leader-image"><img src="assets/images/eminent/leader-blessing.jpg" alt="Mrs Blessing Salako" loading="lazy"></div>
                         <h4 class="title">Mrs Blessing Salako</h4>
                         <p class="desc">Proprietress, Eminent Kids Montessori School</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="ekms-feature-card">
-                        <div class="ekms-leader-image"><img src="assets/images/eminent/team-group.jpg" alt="Eminent Kids Montessori School staff" loading="lazy"></div>
-                        <h4 class="title">EKMS Faculty</h4>
-                        <p class="desc">Competent educators committed to academic excellence, morals, creativity and learner confidence.</p>
                     </div>
                 </div>
             </div>
@@ -194,7 +187,7 @@
         <div class="container">
             <div class="row align-items-center g-5">
                 <div class="col-lg-6">
-                    <div class="ekms-contact-image"><img src="assets/images/eminent/contact.jpg" alt="Eminent Kids Montessori School team" loading="lazy"></div>
+                    <div class="ekms-contact-image"><img src="assets/images/eminent/team-group.jpg" alt="Eminent Kids Montessori School team" loading="lazy"></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="section-title-area">

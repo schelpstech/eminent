@@ -26,40 +26,58 @@
     <?php
     $events = [
         [
-            'title' => 'Leadership Training for Graduating Pupils',
-            'meta' => 'Leadership Development',
-            'image' => 'assets/images/eminent/event-leadership.jpg',
-            'copy' => 'Graduating pupils participate in leadership training to prepare them for leading in high school and beyond.'
-        ],
-        [
-            'title' => 'Excursion and Real-Life Learning',
-            'meta' => 'Learning Outside the Classroom',
-            'image' => 'assets/images/eminent/event-fun-day.jpg',
-            'copy' => 'Field trips and excursions help learners build real-life connections with topics introduced in the classroom.'
-        ],
-        [
-            'title' => 'School Election',
+            'title' => 'School Election & Leadership Practice',
             'meta' => 'Practical Leadership',
-            'image' => 'assets/images/eminent/event-market-day.jpg',
-            'copy' => 'EKMS prepares learners for future leadership by giving them first-hand, practical leadership opportunities.'
+            'image' => 'assets/images/eminent/event-leadership.jpg',
+            'copy' => 'Learners experience voting, responsibility and public confidence through school leadership activities.'
         ],
         [
-            'title' => "Children's Day Celebration",
-            'meta' => 'Celebration & Creativity',
-            'image' => 'assets/images/eminent/gallery-childrens-02.jpg',
-            'copy' => 'A fun-filled day where pupils celebrate friendship, creativity, confidence and school community.'
-        ],
-        [
-            'title' => "Grandparents' Day",
-            'meta' => 'Family & Values',
-            'image' => 'assets/images/eminent/gallery-grandparents-01.jpg',
-            'copy' => 'An intergenerational celebration that teaches children about family, care, sacrifice and respect.'
+            'title' => 'Mini Olympic Sports Day',
+            'meta' => 'Confidence & Teamwork',
+            'image' => 'assets/images/eminent/event-fun-day.jpg',
+            'copy' => 'Colourful sporting activities help pupils build courage, coordination, healthy competition and team spirit.'
         ],
         [
             'title' => 'Market Day',
             'meta' => 'Practical Life Skills',
             'image' => 'assets/images/eminent/event-market-day.jpg',
-            'copy' => 'Practical activities help pupils understand responsibility, communication, teamwork and everyday problem-solving.'
+            'copy' => 'Pupils learn communication, responsibility, trading, counting and real-world problem-solving through market activities.'
+        ],
+        [
+            'title' => "Children's Day Celebration",
+            'meta' => 'Celebration & Creativity',
+            'image' => 'assets/images/eminent/event-childrens-day.jpg',
+            'copy' => 'A fun-filled day where pupils celebrate friendship, creativity, confidence and school community.'
+        ],
+        [
+            'title' => "Grandparents' Day",
+            'meta' => 'Family & Values',
+            'image' => 'assets/images/eminent/event-grandparents-day.jpg',
+            'copy' => 'An intergenerational celebration that teaches children about family, care, sacrifice and respect.'
+        ],
+        [
+            'title' => 'Agape Day',
+            'meta' => 'Love & Community',
+            'image' => 'assets/images/eminent/event-agape-day.jpg',
+            'copy' => 'A warm school celebration where learners share joy, friendship and the values of care and togetherness.'
+        ],
+        [
+            'title' => 'Welcome Back to School',
+            'meta' => 'School Community',
+            'image' => 'assets/images/eminent/event-welcome-back.jpg',
+            'copy' => 'A cheerful return-to-school moment that strengthens belonging, confidence and excitement for learning.'
+        ],
+        [
+            'title' => 'Independence Day Celebration',
+            'meta' => 'Culture & Citizenship',
+            'image' => 'assets/images/eminent/event-independence-day.jpg',
+            'copy' => 'Pupils celebrate national identity while learning respect, unity and pride in their community.'
+        ],
+        [
+            'title' => 'Excursion and Real-Life Learning',
+            'meta' => 'Learning Outside the Classroom',
+            'image' => 'assets/images/eminent/event-excursion.jpg',
+            'copy' => 'Field trips and excursions help learners build real-life connections with topics introduced in class.'
         ],
     ];
     ?>
@@ -98,7 +116,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                             <h2 class="section-title">See more moments from EKMS</h2>
-                            <p>Browse the gallery for Children's Day, Grandparents' Day and other school memories.</p>
+                            <p>Browse the gallery for Children's Day, Mini Olympic, Market Day, Agape Day and other school memories.</p>
                         </div>
                         <div class="col-lg-4 text-lg-end">
                             <a href="gallery.php" class="rts-btn btn-primary2">Open Gallery</a>

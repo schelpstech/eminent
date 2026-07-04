@@ -24,82 +24,153 @@
     <!-- breadcrumb area end -->
 
     <?php
-    $childrensDay = [
-        'gallery-childrens-01.jpg',
-        'gallery-childrens-02.jpg',
-        'gallery-childrens-03.jpg',
-        'gallery-childrens-04.jpg',
-        'gallery-childrens-05.jpg',
-        'gallery-childrens-06.jpg',
-        'gallery-childrens-07.jpg',
-        'gallery-childrens-08.jpg',
-    ];
-
-    $grandparentsDay = [
-        'gallery-grandparents-01.jpg',
-        'gallery-grandparents-02.jpg',
-        'gallery-grandparents-03.jpg',
-        'gallery-grandparents-04.jpg',
-        'gallery-grandparents-05.jpg',
+    $gallerySections = [
+        [
+            'title' => "2025 Children's Day Celebration",
+            'copy' => 'Celebrating the Eminent Kids in a fun-filled and memorable way.',
+            'alt' => "Children's Day celebration at EKMS",
+            'class' => 'section-bg2',
+            'images' => [
+                'gallery-childrens-01.jpg',
+                'gallery-childrens-02.jpg',
+                'gallery-childrens-03.jpg',
+                'gallery-childrens-04.jpg',
+                'gallery-childrens-05.jpg',
+                'gallery-childrens-06.jpg',
+                'gallery-childrens-07.jpg',
+                'gallery-childrens-08.jpg',
+            ],
+        ],
+        [
+            'title' => "2025 Grandparents' Day Celebration",
+            'copy' => 'Teaching the Eminent Kids about family, care, sacrifice and respect for older people.',
+            'alt' => "Grandparents' Day celebration at EKMS",
+            'class' => '',
+            'images' => [
+                'gallery-grandparents-01.jpg',
+                'gallery-grandparents-02.jpg',
+                'gallery-grandparents-03.jpg',
+                'gallery-grandparents-04.jpg',
+                'gallery-grandparents-05.jpg',
+            ],
+        ],
+        [
+            'title' => 'Mini Olympic Sports Day',
+            'copy' => 'Colourful sports, teamwork and confidence-building moments from the EKMS mini olympic.',
+            'alt' => 'Mini Olympic sports day at EKMS',
+            'class' => 'section-bg2',
+            'images' => [
+                'gallery-mini-olympic-01.jpg',
+                'gallery-mini-olympic-02.jpg',
+                'gallery-mini-olympic-03.jpg',
+                'gallery-mini-olympic-04.jpg',
+            ],
+        ],
+        [
+            'title' => 'School Election',
+            'copy' => 'Practical leadership, voting and public-speaking moments for confident learners.',
+            'alt' => 'School election at EKMS',
+            'class' => '',
+            'images' => [
+                'gallery-election-01.jpg',
+                'gallery-election-02.jpg',
+                'gallery-election-03.jpg',
+                'gallery-election-04.jpg',
+            ],
+        ],
+        [
+            'title' => 'Welcome Back to School',
+            'copy' => 'A cheerful return-to-school celebration with pupils, teachers and the EKMS community.',
+            'alt' => 'Welcome back to school at EKMS',
+            'class' => 'section-bg2',
+            'images' => [
+                'gallery-welcome-back-01.jpg',
+                'gallery-welcome-back-02.jpg',
+                'gallery-welcome-back-03.jpg',
+                'gallery-welcome-back-04.jpg',
+            ],
+        ],
+        [
+            'title' => 'Agape Day',
+            'copy' => 'A joyful celebration of love, friendship, care and togetherness among learners.',
+            'alt' => 'Agape Day celebration at EKMS',
+            'class' => '',
+            'images' => [
+                'gallery-agape-01.jpg',
+                'gallery-agape-02.jpg',
+                'gallery-agape-03.jpg',
+                'gallery-agape-04.jpg',
+            ],
+        ],
+        [
+            'title' => 'Independence Day Celebration',
+            'copy' => 'Celebrating national identity, unity and citizenship in a child-friendly way.',
+            'alt' => 'Independence Day celebration at EKMS',
+            'class' => 'section-bg2',
+            'images' => [
+                'gallery-independence-01.jpg',
+                'gallery-independence-02.jpg',
+                'gallery-independence-03.jpg',
+            ],
+        ],
+        [
+            'title' => 'Market Day',
+            'copy' => 'Practical market activities where pupils learn trading, counting, responsibility and communication.',
+            'alt' => 'Market Day practical learning at EKMS',
+            'class' => '',
+            'images' => [
+                'gallery-market-day-01.jpg',
+                'gallery-market-day-02.jpg',
+                'gallery-market-day-03.jpg',
+                'gallery-market-day-04.jpg',
+            ],
+        ],
+        [
+            'title' => 'Excursion',
+            'copy' => 'Learning outside the classroom through shared discovery and real-life experiences.',
+            'alt' => 'EKMS excursion and real-life learning',
+            'class' => 'section-bg2',
+            'images' => [
+                'gallery-excursion-01.jpg',
+                'gallery-excursion-02.jpg',
+                'gallery-excursion-03.jpg',
+            ],
+        ],
     ];
 
     function ekms_gallery_item($file, $alt)
     {
         $src = 'assets/images/eminent/' . $file;
+        $safeSrc = htmlspecialchars($src, ENT_QUOTES, 'UTF-8');
+        $safeAlt = htmlspecialchars($alt, ENT_QUOTES, 'UTF-8');
+
         echo '<div class="ekms-gallery-image">';
-        echo '<img src="' . $src . '" alt="' . $alt . '" loading="lazy">';
-        echo '<a href="' . $src . '" class="gallery-image"><div class="item-overlay"><span><i class="fa-light fa-plus"></i></span></div></a>';
-        echo '<a href="' . $src . '" class="overlink gallery-image"></a>';
+        echo '<img src="' . $safeSrc . '" alt="' . $safeAlt . '" loading="lazy">';
+        echo '<a href="' . $safeSrc . '" class="gallery-image"><div class="item-overlay"><span><i class="fa-light fa-plus"></i></span></div></a>';
+        echo '<a href="' . $safeSrc . '" class="overlink gallery-image"></a>';
         echo '</div>';
     }
     ?>
 
-    <!-- children's day gallery start -->
-    <section class="rts-gallery-area rts-section-gap section-bg2">
-        <div class="container">
-            <div class="section-title-area text-center">
-                <p class="pre-title justify-content-center"><img src="assets/images/banner/title-img.svg" alt="">Gallery</p>
-                <h2 class="section-title">2025 Children's Day Celebration</h2>
-                <p class="desc ekms-section-note">Celebrating the Eminent Kids in a fun-filled and memorable way.</p>
-            </div>
-            <div class="section-inner">
-                <div class="row g-5">
-                    <div class="col-lg-12">
-                        <?php ekms_gallery_item($childrensDay[0], "Children's Day celebration at EKMS"); ?>
+    <?php foreach ($gallerySections as $section) : ?>
+        <section class="rts-gallery-area rts-section-gap <?php echo htmlspecialchars($section['class'], ENT_QUOTES, 'UTF-8'); ?>">
+            <div class="container">
+                <div class="section-title-area text-center">
+                    <p class="pre-title justify-content-center"><img src="assets/images/banner/title-img.svg" alt="">Gallery</p>
+                    <h2 class="section-title"><?php echo htmlspecialchars($section['title'], ENT_QUOTES, 'UTF-8'); ?></h2>
+                    <p class="desc ekms-section-note"><?php echo htmlspecialchars($section['copy'], ENT_QUOTES, 'UTF-8'); ?></p>
+                </div>
+                <div class="section-inner">
+                    <div class="row g-5">
+                        <?php foreach ($section['images'] as $index => $image) : ?>
+                            <div class="<?php echo $index === 0 ? 'col-lg-12' : 'col-lg-3 col-md-6'; ?>">
+                                <?php ekms_gallery_item($image, $section['alt']); ?>
+                            </div>
+                        <?php endforeach; ?>
                     </div>
-                    <?php for ($i = 1; $i < count($childrensDay); $i++) : ?>
-                        <div class="col-lg-3 col-md-6">
-                            <?php ekms_gallery_item($childrensDay[$i], "Children's Day celebration at EKMS"); ?>
-                        </div>
-                    <?php endfor; ?>
                 </div>
             </div>
-        </div>
-    </section>
-    <!-- children's day gallery end -->
-
-    <!-- grandparents day gallery start -->
-    <section class="rts-gallery-area rts-section-gap">
-        <div class="container">
-            <div class="section-title-area text-center">
-                <p class="pre-title justify-content-center"><img src="assets/images/banner/title-img.svg" alt="">Gallery</p>
-                <h2 class="section-title">2025 Grandparents' Day Celebration</h2>
-                <p class="desc ekms-section-note">Teaching the Eminent Kids about family, care, sacrifice and respect for older people.</p>
-            </div>
-            <div class="section-inner">
-                <div class="row g-5">
-                    <div class="col-lg-12">
-                        <?php ekms_gallery_item($grandparentsDay[0], "Grandparents' Day celebration at EKMS"); ?>
-                    </div>
-                    <?php for ($i = 1; $i < count($grandparentsDay); $i++) : ?>
-                        <div class="col-lg-3 col-md-6">
-                            <?php ekms_gallery_item($grandparentsDay[$i], "Grandparents' Day celebration at EKMS"); ?>
-                        </div>
-                    <?php endfor; ?>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- grandparents day gallery end -->
+        </section>
+    <?php endforeach; ?>
 
     <?php include 'inc/footer.php'; ?>

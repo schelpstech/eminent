@@ -265,25 +265,25 @@
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-event-image"><img src="assets/images/eminent/event-leadership.jpg" alt="Leadership training for pupils" loading="lazy"></div>
-                        <h4 class="title">Leadership Training</h4>
-                        <p class="desc">Graduating pupils participate in leadership training to prepare them for leading confidently in high school.</p>
+                        <div class="ekms-event-image"><img src="assets/images/eminent/event-leadership.jpg" alt="School election and leadership practice" loading="lazy"></div>
+                        <h4 class="title">School Election</h4>
+                        <p class="desc">Learners practise voting, responsibility, confidence and public leadership through school election activities.</p>
                         <a href="events.php" class="rts-btn">View Events</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-event-image"><img src="assets/images/eminent/gallery-childrens-01.jpg" alt="Children's Day celebration" loading="lazy"></div>
-                        <h4 class="title">Children's Day Celebration</h4>
-                        <p class="desc">Fun-filled celebrations help pupils build joy, confidence, creativity and friendship within the school community.</p>
+                        <div class="ekms-event-image"><img src="assets/images/eminent/event-fun-day.jpg" alt="Mini Olympic sports day" loading="lazy"></div>
+                        <h4 class="title">Mini Olympic</h4>
+                        <p class="desc">Sporting activities help pupils build courage, teamwork, healthy competition and school spirit.</p>
                         <a href="gallery.php" class="rts-btn">Open Gallery</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-event-image"><img src="assets/images/eminent/event-market-day.jpg" alt="Pupils in practical learning activity" loading="lazy"></div>
-                        <h4 class="title">Excursions & Practical Learning</h4>
-                        <p class="desc">Field trips and practical activities help learners connect classroom lessons with the world around them.</p>
+                        <div class="ekms-event-image"><img src="assets/images/eminent/event-market-day.jpg" alt="Market Day practical learning" loading="lazy"></div>
+                        <h4 class="title">Market Day</h4>
+                        <p class="desc">Practical market activities help learners connect counting, communication and responsibility with real life.</p>
                         <a href="events.php" class="rts-btn">See Activities</a>
                     </div>
                 </div>
