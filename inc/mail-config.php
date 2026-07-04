@@ -13,7 +13,7 @@ return [
         'email' => 'enquiry@eminentkidsschool.com',
         'name' => 'Eminent Kids Montessori School',
     ],
-    'admissions_email' => 'admissions@eminentkidsschool.com,ezekiel@eforbcompany.com',
+    'admissions_email' => 'admissions@eminentkidsschool.com',
     'school' => [
         'name' => 'Eminent Kids Montessori School',
         'website' => 'https://eminentkidsschool.com/',
