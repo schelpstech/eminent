@@ -11,7 +11,7 @@
             'title' => 'Learning that moulds future leaders at',
             'highlight' => 'Eminent Kids',
             'copy' => 'A world-class nursery and primary school in Mowe, Ogun State, committed to moulding confident, creative, morally sound learners.',
-            'image' => 'assets/images/eminent/hero-preschool.jpg',
+            'image' => 'assets/images/eminent/programme-primary-alt.jpg',
             'link' => 'admissions.php',
             'button' => 'Apply Now'
         ],
@@ -40,21 +40,21 @@
             'title' => 'Pre-School',
             'period' => 'Ages 1 - 5',
             'copy' => 'Specially created classes for infant and nursery learners, with focus on literacy, numeracy and social awareness.',
-            'image' => 'assets/images/eminent/programme-preschool.jpg',
+            'image' => 'assets/images/eminent/gallery-agape-02.jpg',
             'link' => 'preschool.php'
         ],
         [
             'title' => 'Nursery School',
             'period' => 'Early years foundation',
             'copy' => 'A warm, safe environment where learners build confidence, creativity, morals, social habits and early academic skills.',
-            'image' => 'assets/images/eminent/programme-nursery.jpg',
+            'image' => 'assets/images/eminent/preschool.jpg',
             'link' => 'nursery.php'
         ],
         [
             'title' => 'Primary School',
             'period' => 'Primary classes',
             'copy' => 'Our primary school develops science, numeracy, literacy, moral, arts and social knowledge for secondary readiness.',
-            'image' => 'assets/images/eminent/programme-primary.jpg',
+            'image' => 'assets/images/eminent/gallery-welcome-back-01.jpg',
             'link' => 'primary.php'
         ],
     ];
