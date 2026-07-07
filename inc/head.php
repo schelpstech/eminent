@@ -14,7 +14,8 @@
     <meta name="author" content="Eminent Kids Montessori School">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/images/fav.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/images/fav.png">
+    <link rel="apple-touch-icon" href="assets/images/fav.png">
 
     <!-- Open Graph (Facebook, WhatsApp, LinkedIn) -->
     <meta property="og:title" content="Eminent Kids Montessori School">

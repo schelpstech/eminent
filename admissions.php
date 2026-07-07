@@ -167,7 +167,7 @@ include 'inc/head.php';
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-programme-image"><img src="assets/images/eminent/event-welcome-back.jpg" alt="Primary school pupils" loading="lazy"></div>
+                        <div class="ekms-programme-image"><img src="assets/images/eminent/programme-primary.jpg" alt="Primary school pupils" loading="lazy"></div>
                         <h4 class="title">Primary School</h4>
                         <p class="desc">Pupils develop science, technology, engineering, creative arts, mathematics, literacy, morals and spirituality.</p>
                         <a href="primary.php" class="rts-btn">Learn More</a>

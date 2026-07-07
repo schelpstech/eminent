@@ -93,7 +93,7 @@
         <div class="container">
             <div class="row align-items-center g-5">
                 <div class="col-lg-6">
-                    <div class="ekms-contact-image"><img src="assets/images/eminent/event-market-day.jpg" alt="EKMS pupils learning together" loading="lazy"></div>
+                    <div class="ekms-contact-image"><img src="assets/images/eminent/programme-nursery-alt.jpg" alt="Nursery learners practising classroom skills at EKMS" loading="lazy"></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="section-title-area">

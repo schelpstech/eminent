@@ -273,17 +273,17 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-event-image"><img src="assets/images/eminent/event-fun-day.jpg" alt="Mini Olympic sports day" loading="lazy"></div>
-                        <h4 class="title">Mini Olympic</h4>
-                        <p class="desc">Sporting activities help pupils build courage, teamwork, healthy competition and school spirit.</p>
+                        <div class="ekms-event-image"><img src="assets/images/eminent/event-science-day.jpg" alt="Science and creative art exhibition" loading="lazy"></div>
+                        <h4 class="title">Science Exhibition</h4>
+                        <p class="desc">Hands-on science and creative projects help learners present ideas with confidence and curiosity.</p>
                         <a href="gallery.php" class="rts-btn">Open Gallery</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-event-image"><img src="assets/images/eminent/event-market-day.jpg" alt="Market Day practical learning" loading="lazy"></div>
-                        <h4 class="title">Market Day</h4>
-                        <p class="desc">Practical market activities help learners connect counting, communication and responsibility with real life.</p>
+                        <div class="ekms-event-image"><img src="assets/images/eminent/event-swimming-day.jpg" alt="Swimming activity" loading="lazy"></div>
+                        <h4 class="title">Swimming Activity</h4>
+                        <p class="desc">Guided activities help pupils build confidence, discipline, coordination and healthy physical development.</p>
                         <a href="events.php" class="rts-btn">See Activities</a>
                     </div>
                 </div>

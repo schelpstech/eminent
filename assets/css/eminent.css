@@ -43,11 +43,17 @@
 
 .eminent-logo-footer .eminent-logo-text,
 .ekms-footer .eminent-logo-text {
-    color: #ffffff;
+    color: #151515;
 }
 
 .ekms-footer .eminent-logo-text small {
-    color: #f8d64e;
+    color: #08a34f;
+}
+
+.ekms-footer .eminent-logo {
+    background: transparent;
+    min-width: auto;
+    padding: 0;
 }
 
 .ekms-top-note {

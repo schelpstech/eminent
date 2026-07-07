@@ -68,7 +68,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="ekms-contact-image"><img src="assets/images/eminent/about-main.jpg" alt="Pre-school learners at EKMS" loading="lazy"></div>
+                    <div class="ekms-contact-image"><img src="assets/images/eminent/programme-preschool-alt.jpg" alt="Pre-school learners at EKMS" loading="lazy"></div>
                 </div>
             </div>
         </div>

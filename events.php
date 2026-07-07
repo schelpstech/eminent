@@ -32,10 +32,34 @@
             'copy' => 'Learners experience voting, responsibility and public confidence through school leadership activities.'
         ],
         [
-            'title' => 'Mini Olympic Sports Day',
+            'title' => 'Sports Activities',
             'meta' => 'Confidence & Teamwork',
             'image' => 'assets/images/eminent/event-fun-day.jpg',
             'copy' => 'Colourful sporting activities help pupils build courage, coordination, healthy competition and team spirit.'
+        ],
+        [
+            'title' => 'Swimming Activity',
+            'meta' => 'Physical Development',
+            'image' => 'assets/images/eminent/event-swimming-day.jpg',
+            'copy' => 'Guided swimming activities help learners build confidence, discipline and healthy physical development.'
+        ],
+        [
+            'title' => 'Science & Creative Art Exhibition',
+            'meta' => 'Discovery & Creativity',
+            'image' => 'assets/images/eminent/event-science-day.jpg',
+            'copy' => 'Learners present science, anatomy, technology and creative projects through hands-on exploration.'
+        ],
+        [
+            'title' => 'Mathspeed Competition',
+            'meta' => 'Numeracy Challenge',
+            'image' => 'assets/images/eminent/event-mathspeed.jpg',
+            'copy' => 'A focused numeracy event where pupils practise speed, accuracy, confidence and healthy academic competition.'
+        ],
+        [
+            'title' => 'Christmas Presentation',
+            'meta' => 'Music & Performance',
+            'image' => 'assets/images/eminent/event-christmas-presentation.jpg',
+            'copy' => 'Learners build stage confidence through music, presentation and creative performance.'
         ],
         [
             'title' => 'Market Day',
@@ -116,7 +140,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                             <h2 class="section-title">See more moments from EKMS</h2>
-                            <p>Browse the gallery for Children's Day, Mini Olympic, Market Day, Agape Day and other school memories.</p>
+                            <p>Browse the gallery for sports, swimming, science exhibition, Mathspeed, Christmas presentations and other school memories.</p>
                         </div>
                         <div class="col-lg-4 text-lg-end">
                             <a href="gallery.php" class="rts-btn btn-primary2">Open Gallery</a>
