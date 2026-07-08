@@ -10,7 +10,7 @@
             'title' => 'Learning that moulds future leaders at',
             'highlight' => 'Eminent Kids',
             'copy' => 'A world-class nursery and primary school in Mowe, Ogun State, committed to moulding confident, creative, morally sound learners.',
-            'image' => 'assets/images/eminent/science_exhibition.jpg',
+            'image' => 'assets/images/eminent/programme-primary-alt.jpg',
             'link' => 'admissions.php',
             'button' => 'Apply Now'
         ],
@@ -19,7 +19,7 @@
             'title' => 'Montessori learning made practical at',
             'highlight' => 'EKMS',
             'copy' => 'Our Montessori approach helps children make real-life connections between abstract ideas and practical learning.',
-            'image' => 'assets/images/eminent/hero-graduation.jpg',
+            'image' => 'assets/images/eminent/programme-nursery.jpg',
             'link' => 'about.php',
             'button' => 'Discover EKMS'
         ],
@@ -272,7 +272,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="ekms-feature-card">
-                        <div class="ekms-event-image"><img src="assets/images/eminent/event-science-day.jpg" alt="Science and creative art exhibition" loading="lazy"></div>
+                        <div class="ekms-event-image"><img src="assets/images/eminent/science_exhibition.jpg" alt="Science and creative art exhibition" loading="lazy"></div>
                         <h4 class="title">Science Exhibition</h4>
                         <p class="desc">Hands-on science and creative projects help learners present ideas with confidence and curiosity.</p>
                         <a href="gallery.php" class="rts-btn">Open Gallery</a>
