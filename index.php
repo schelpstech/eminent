@@ -3,7 +3,6 @@
 <body>
 
     <?php include 'inc/header.php'; ?>
-
     <?php
     $slides = [
         [
