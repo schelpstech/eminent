@@ -10,7 +10,7 @@
             'title' => 'Learning that moulds future leaders at',
             'highlight' => 'Eminent Kids',
             'copy' => 'A world-class nursery and primary school in Mowe, Ogun State, committed to moulding confident, creative, morally sound learners.',
-            'image' => 'assets/images/eminent/programme-primary-alt.jpg',
+            'image' => 'assets/images/eminent/science_exhibition.jpg',
             'link' => 'admissions.php',
             'button' => 'Apply Now'
         ],
@@ -19,7 +19,7 @@
             'title' => 'Montessori learning made practical at',
             'highlight' => 'EKMS',
             'copy' => 'Our Montessori approach helps children make real-life connections between abstract ideas and practical learning.',
-            'image' => 'assets/images/eminent/hero-primary.jpg',
+            'image' => 'assets/images/eminent/hero-graduation.jpg',
             'link' => 'about.php',
             'button' => 'Discover EKMS'
         ],
@@ -28,7 +28,7 @@
             'title' => 'Academic excellence, morals and confidence',
             'highlight' => 'from the start',
             'copy' => 'From early literacy and numeracy to ICT skills and leadership opportunities, every child is guided to stand out.',
-            'image' => 'assets/images/eminent/hero-graduation.jpg',
+            'image' => 'assets/images/eminent/hero-primary.jpg',
             'link' => 'primary.php',
             'button' => 'Explore Primary'
         ],
@@ -39,14 +39,14 @@
             'title' => 'Pre-School',
             'period' => 'Ages 1 - 5',
             'copy' => 'Specially created classes for infant and nursery learners, with focus on literacy, numeracy and social awareness.',
-            'image' => 'assets/images/eminent/gallery-agape-02.jpg',
+            'image' => 'assets/images/eminent/preschool_eminent.jpg',
             'link' => 'preschool.php'
         ],
         [
             'title' => 'Nursery School',
             'period' => 'Early years foundation',
             'copy' => 'A warm, safe environment where learners build confidence, creativity, morals, social habits and early academic skills.',
-            'image' => 'assets/images/eminent/preschool.jpg',
+            'image' => 'assets/images/eminent/nursery_eminent.jpg',
             'link' => 'nursery.php'
         ],
         [
