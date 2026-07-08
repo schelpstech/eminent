@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row align-items-center g-5">
                 <div class="col-lg-6">
-                    <div class="ekms-contact-image"><img src="assets/images/eminent/programme-preschool.jpg" alt="Eminent Kids Pre-School" loading="lazy"></div>
+                    <div class="ekms-contact-image"><img src="assets/images/eminent/preschool.jpg" alt="Eminent Kids Pre-School" loading="lazy"></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="section-title-area">
@@ -68,7 +68,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="ekms-contact-image"><img src="assets/images/eminent/programme-preschool-alt.jpg" alt="Pre-school learners at EKMS" loading="lazy"></div>
+                    <div class="ekms-contact-image"><img src="assets/images/eminent/gallery-agape-02.jpg" alt="Pre-school learners at EKMS" loading="lazy"></div>
                 </div>
             </div>
         </div>

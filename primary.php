@@ -105,7 +105,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="ekms-contact-image"><img src="assets/images/eminent/programme-primary-alt.jpg" alt="Primary pupils during science and creative learning" loading="lazy"></div>
+                    <div class="ekms-contact-image"><img src="assets/images/eminent/gallery-science-04.jpg" alt="Primary pupils during science and creative learning" loading="lazy"></div>
                 </div>
             </div>
         </div>
